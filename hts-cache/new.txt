@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:50:29	51269/51269	---M-Z	200	added ('OK')	text/html	date:Fri,%2026%20May%202017%2022:50:29%20GMT	http://www.imxprs.com/free/trendmend/crta	C:/My%20Web%20Sites/CRTA/www.imxprs.com/free/trendmend/crta.html	(from )
+16:50:30	0/0	---M--	302	error ('Found')	text/html	date:Fri,%2026%20May%202017%2022:50:30%20GMT	http://www.imxprs.com/robots.txt		(from )
